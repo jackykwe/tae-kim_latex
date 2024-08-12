@@ -17,7 +17,7 @@
 use strict;
 use warnings;
 use feature qw/say switch/;
-use encoding 'utf8';
+# use encoding 'utf8';
 use utf8;
 
 use WWW::Mechanize;
